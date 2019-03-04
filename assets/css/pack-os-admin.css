@@ -1,0 +1,58 @@
+.package-ordering-summary-admin-container * {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 150%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.package-ordering-summary-admin-container{ padding: 1%; }
+
+.package-ordering-summary-admin-container h3 {
+    font-size: 26px;
+}
+
+.package-ordering-summary-admin-container h4 {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.package-ordering-summary-admin-container h5, .package-ordering-summary-admin-container h5 a {
+    font-size: 18px;
+}
+
+.package-ordering-summary-admin-container .package-ordering-summary-admin-list .pos-summary-item-name {
+    border-bottom: 1px solid #e2e2e2;
+    padding-bottom: 10px;
+}
+
+.package-ordering-summary-admin-container .package-ordering-summary-admin-list .pos-summary-item-list {
+    margin: 0 0 15px 15px;
+}
+.package-ordering-summary-admin-container .package-ordering-summary-admin-list .pos-summary-item-list li{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.package-ordering-summary-admin-container .package-ordering-summary-admin-list .pos-summary-title {
+    display: inline-block;
+}
+
+.package-ordering-summary-admin-container .package-ordering-summary-admin-list .pos-summary-price {
+    float: right;
+    font-size: 18px;
+}
+
+.package-ordering-summary-admin-container .package-ordering-summary-admin-list .pos-summary-total-price-name {
+    border-color: transparent;
+    display: inline-block;
+}
+
+.package-ordering-summary-admin-container .package-ordering-summary-admin-list .pos-price-summary {
+    float: right;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
